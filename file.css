@@ -18,8 +18,9 @@ position:fixed;
 
 #content{
   float:left;
-  width:1800px;
-  height:1900px;
+  left:310px;
+	width:700px;
+  height:100%;
  position:relative;
 }
 
