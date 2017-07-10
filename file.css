@@ -23,6 +23,8 @@ position:fixed;
   height:100%;
  position:relative;
 }
+.page{height:1000px;
+background-color:#ffffff;}
 
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
