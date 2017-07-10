@@ -2,11 +2,14 @@ p{font-family: 'Oswald', sans-serif;}
 h1{font-size:100;
   font-family: 'Baloo Bhaina', cursive;}
 #header{
+ clear: both;
  width:2000px;
  height:100px;
- position:absolute;
+ position:relative;
+ 
 }
 #sidebar{
+float:left;
 width:200px;
 height:100%;
 padding:50px;
@@ -14,6 +17,7 @@ position:fixed;
 }
 
 #content{
+  float:right;
   width:1800px;
   height:1900px;
  position:fixed;
